@@ -26,4 +26,5 @@ do
 done
 
 # If while loop is exited, that implies the user guessed correctly.
+# Prints Congrats
 echo "Congrats! You have guessed correctly."
